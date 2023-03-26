@@ -564,7 +564,7 @@ button {
 #contact .contact {
 	flex-direction: row;
 	margin: 0 auto;
-    background-color: rgb(255, 255, 255);
+    background-color: coral;
 }
 #contact .contact-items {
 }
@@ -578,12 +578,12 @@ button {
 	padding: 30px;
 	margin: 30px;
 	display: flex;
-	box-shadow: 0px 0px 18px 0 #0000002c;
+	box-shadow: 0px 0px 18px 0 coral;
 	transition: 0.3s ease box-shadow;
 }
 #contact .contact-item:hover {
-	box-shadow: 0px 0px 8px 0 #1EFF902c;
-	color: rgb(30, 255, 144);
+	box-shadow: 0px 0px 8px 0 navy;
+	color: navy;
 }
 #contact .icon {
 	margin: 0 auto;
