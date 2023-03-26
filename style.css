@@ -299,7 +299,7 @@ button {
       left:0;
       height:100%;
       width: 0%;
-      background-color: rgb(30,30,30, 0.10);
+      background-color: coral;
       animation: text_reveal_box 0.8s ease;
 }
 #hero h1:nth-child(1) span{
