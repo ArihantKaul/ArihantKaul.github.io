@@ -189,7 +189,7 @@ button {
 	letter-spacing: initial;
 }
 #header .nav-list ul li:hover a {
-	color: rgb(30,255,144);
+	color: navy;
 }
 #header .hamburger {
 	height: 60px;
