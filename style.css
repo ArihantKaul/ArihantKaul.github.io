@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Red+Hat+Display&display=swap');
 
 *{
     padding: 0;
@@ -11,7 +11,7 @@ body{
 }
 html{
     font-size: 10px;
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Red Hat Display', sans-serif;
     scroll-behavior: smooth;
     list-style: none;
 }
