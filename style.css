@@ -632,8 +632,10 @@ background-color: transparent;
 /* Footer*/
 #footer{
     background: linear-gradient(rgb(255, 255, 255), rgb(0, 0, 0));
+    max-width: 100%;
 }
 #footer .footer{
+    min-height: 200px;
     flex-direction: column;
     padding-top: 50px;
     padding-bottom: 10px;
@@ -649,6 +651,11 @@ background-color: transparent;
 #footer .social-icon{
     display: flex;
     margin-bottom: 30px;
+}
+#footer .social-item{
+    height: 50px;
+    width: 50px;
+    margin: 0 5px;
 }
 
 #footer p{
