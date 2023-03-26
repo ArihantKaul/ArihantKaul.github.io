@@ -631,7 +631,7 @@ background-color: transparent;
 
 /* Footer*/
 #footer{
-    background: linear-gradient(rgb(255, 255, 255), #8e1008);
+    background: linear-gradient(rgb(255, 255, 255), rgb(0, 0, 0));
     max-width: 100%;
 }
 #footer .footer{
