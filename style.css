@@ -727,7 +727,7 @@ background-color: transparent;
 }
 @keyframes text_reveal{
     100%{
-        color: rgb(200, 200, 200);
+        color: navy;
     }
 }
 @keyframes text_reveal_name{
