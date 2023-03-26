@@ -650,18 +650,7 @@ background-color: transparent;
     display: flex;
     margin-bottom: 30px;
 }
-#footer .social-item{
-    height: 50px;
-    width: 50px;
-    margin: 0 5px;
-}
-#footer .social-item img{
-    filter: grayscale(1);
-    transition: .3s ease filter;
-}
-#footer .social-item:hover img{
-    filter: grayscale(0);
-}
+
 #footer p{
     color: white;
     font-size: 1.3rem;
@@ -673,7 +662,6 @@ background-color: transparent;
     background: linear-gradient(orange, #485563);
 }
 #footer-register .footer{
-    min-height: 200px;
     flex-direction: column;
     padding-top: 50px;
     padding-bottom: 10px;
@@ -686,22 +674,7 @@ background-color: transparent;
     margin-top: 10px;
     margin-bottom: 10px;
 }
-#footer-register .social-icon{
-    display: flex;
-    margin-bottom: 30px;
-}
-#footer-register .social-item{
-    height: 50px;
-    width: 50px;
-    margin: 0 5px;
-}
-#footer-register .social-item img{
-    filter: grayscale(1);
-    transition: .3s ease filter;
-}
-#footer-register .social-item:hover img{
-    filter: grayscale(0);
-}
+
 #footer-register p{
     color: white;
     font-size: 1.3rem;
