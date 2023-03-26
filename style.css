@@ -8,6 +8,7 @@
 
 body{
 	width: 100%;
+	min-height: 100%;
 }
 html{
     font-size: 10px;
@@ -631,10 +632,8 @@ background-color: transparent;
 /* Footer*/
 #footer{
     background: linear-gradient(rgb(255, 255, 255), rgb(0, 0, 0));
-    max-width: 100%;
 }
 #footer .footer{
-    min-height: 100vh;
     flex-direction: column;
     padding-top: 50px;
     padding-bottom: 10px;
